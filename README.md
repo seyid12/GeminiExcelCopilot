@@ -1,12 +1,12 @@
 # Gemini Excel Copilot (Veri Asistanı)
 
-**Veri Asistanı**, Microsoft Excel'i Google'ın en yeni **Gemini 1.5 Flash** yapay zeka modeli ile güçlendiren, C# ve VSTO (Visual Studio Tools for Office) mimarisi üzerine inşa edilmiş kapsamlı bir eklentidir.
+**Veri Asistanı**, Microsoft Excel'i Google'ın en yeni **Gemini 2.5 Flash** yapay zeka modeli ile güçlendiren, C# ve VSTO (Visual Studio Tools for Office) mimarisi üzerine inşa edilmiş kapsamlı bir eklentidir.
 
 Bu proje, Excel'e sadece bir "Yan Panel" eklemekle kalmaz; aynı zamanda C# ve VBA arasında kurduğu özel **COM Automation Köprüsü** sayesinde, yapay zekayı doğrudan hücre içinde bir formül gibi kullanmanıza (`=GEMINI()`) olanak tanır.
 
 ![Proje Durumu](https://img.shields.io/badge/Durum-v1.1%20Yayında-success)
 ![Lisans](https://img.shields.io/badge/Lisans-MIT-blue)
-![Yapay Zeka](https://img.shields.io/badge/Model-Gemini%201.5%20Flash-orange)
+![Yapay Zeka](https://img.shields.io/badge/Model-Gemini%202.5%20Flash-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Excel-lightgrey)
 
 ## 🚀 Öne Çıkan Özellikler
