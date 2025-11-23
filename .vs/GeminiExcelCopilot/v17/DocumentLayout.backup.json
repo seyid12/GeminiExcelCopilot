@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\GeminiExcelCopilot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF0542A-C3B4-45FD-B0DF-EC324C47D9E1}|GeminiExcelCopilot\\GeminiExcelCopilot.csproj|c:\\new folder\\geminiexcelcopilot\\geminiexcelcopilot\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF0542A-C3B4-45FD-B0DF-EC324C47D9E1}|GeminiExcelCopilot\\GeminiExcelCopilot.csproj|solutionrelative:geminiexcelcopilot\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF0542A-C3B4-45FD-B0DF-EC324C47D9E1}|GeminiExcelCopilot\\GeminiExcelCopilot.csproj|c:\\new folder\\geminiexcelcopilot\\geminiexcelcopilot\\geminifunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF0542A-C3B4-45FD-B0DF-EC324C47D9E1}|GeminiExcelCopilot\\GeminiExcelCopilot.csproj|solutionrelative:geminiexcelcopilot\\geminifunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF0542A-C3B4-45FD-B0DF-EC324C47D9E1}|GeminiExcelCopilot\\GeminiExcelCopilot.csproj|c:\\new folder\\geminiexcelcopilot\\geminiexcelcopilot\\taskpanecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF0542A-C3B4-45FD-B0DF-EC324C47D9E1}|GeminiExcelCopilot\\GeminiExcelCopilot.csproj|solutionrelative:geminiexcelcopilot\\taskpanecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThisAddIn.cs",
+              "DocumentMoniker": "C:\\New folder\\GeminiExcelCopilot\\GeminiExcelCopilot\\ThisAddIn.cs",
+              "RelativeDocumentMoniker": "GeminiExcelCopilot\\ThisAddIn.cs",
+              "ToolTip": "C:\\New folder\\GeminiExcelCopilot\\GeminiExcelCopilot\\ThisAddIn.cs",
+              "RelativeToolTip": "GeminiExcelCopilot\\ThisAddIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:57:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeminiFunctions.cs",
+              "DocumentMoniker": "C:\\New folder\\GeminiExcelCopilot\\GeminiExcelCopilot\\GeminiFunctions.cs",
+              "RelativeDocumentMoniker": "GeminiExcelCopilot\\GeminiFunctions.cs",
+              "ToolTip": "C:\\New folder\\GeminiExcelCopilot\\GeminiExcelCopilot\\GeminiFunctions.cs",
+              "RelativeToolTip": "GeminiExcelCopilot\\GeminiFunctions.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:57:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskPaneControl.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\GeminiExcelCopilot\\GeminiExcelCopilot\\TaskPaneControl.cs",
+              "RelativeDocumentMoniker": "GeminiExcelCopilot\\TaskPaneControl.cs",
+              "ToolTip": "C:\\New folder\\GeminiExcelCopilot\\GeminiExcelCopilot\\TaskPaneControl.cs [Design]",
+              "RelativeToolTip": "GeminiExcelCopilot\\TaskPaneControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:30:13.128Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
